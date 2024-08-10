@@ -1,7 +1,7 @@
 import React from 'react'
 import '../Profile/Profile.css'
-import card from '../../../images/bg-pattern-card.svg'
-import vector from '../../../images/image-victor.jpg'
+import card from '../../src/assets/images/bg-pattern-card.svg'
+import vector from '../../src/assets/images/image-victor.jpg'
 function Profile() {
   return (
     <div id='Profile'>
